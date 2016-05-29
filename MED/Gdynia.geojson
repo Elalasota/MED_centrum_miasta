@@ -1,0 +1,7490 @@
+[
+    {
+      "type": "Feature",
+      "id": "node/300761349",
+      "properties": {
+        "@id": "node/300761349",
+        "bus": "yes",
+        "name": "Źródło Marii",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4972675,
+          54.4698867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300761786",
+      "properties": {
+        "@id": "node/300761786",
+        "bus": "yes",
+        "name": "Hutnicza - Działki (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4305279,
+          54.5558428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300762168",
+      "properties": {
+        "@id": "node/300762168",
+        "bus": "yes",
+        "name": "Pustki Cisowskie",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4349203,
+          54.5390634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300762170",
+      "properties": {
+        "@id": "node/300762170",
+        "bus": "yes",
+        "name": "Chylonia Centrum",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4601377,
+          54.5409422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300762253",
+      "properties": {
+        "@id": "node/300762253",
+        "bus": "yes",
+        "name": "Obłuże Centrum",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5076266,
+          54.5507717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300762260",
+      "properties": {
+        "@id": "node/300762260",
+        "bus": "yes",
+        "name": "Obłuże Centrum",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5082377,
+          54.5506934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300762454",
+      "properties": {
+        "@id": "node/300762454",
+        "bus": "yes",
+        "name": "Warszawska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5299796,
+          54.5176421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300762721",
+      "properties": {
+        "@id": "node/300762721",
+        "bus": "yes",
+        "name": "Cisowa SKM",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4449869,
+          54.5495899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300764668",
+      "properties": {
+        "@id": "node/300764668",
+        "bus": "yes",
+        "name": "Płyta Redłowska",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5523493,
+          54.4918249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300774155",
+      "properties": {
+        "@id": "node/300774155",
+        "bus": "yes",
+        "name": "Lipowa NŻ",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4908031,
+          54.4701085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300774299",
+      "properties": {
+        "@id": "node/300774299",
+        "bus": "yes",
+        "name": "Brzechwy",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4896054,
+          54.4736785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300774564",
+      "properties": {
+        "@id": "node/300774564",
+        "bus": "yes",
+        "name": "Kameliowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.467994,
+          54.470758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300774572",
+      "properties": {
+        "@id": "node/300774572",
+        "bus": "yes",
+        "name": "Szafranowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4603173,
+          54.4653113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300774793",
+      "properties": {
+        "@id": "node/300774793",
+        "bus": "yes",
+        "name": "Terminal Promowy",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5010642,
+          54.547197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300774905",
+      "properties": {
+        "@id": "node/300774905",
+        "bus": "yes",
+        "name": "Zwycięstwa - Wielkopolska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5464061,
+          54.4844789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/300775552",
+      "properties": {
+        "@id": "node/300775552",
+        "bus": "yes",
+        "name": "Kolibki",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.553925,
+          54.4732226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354453516",
+      "properties": {
+        "@id": "node/354453516",
+        "bus": "yes",
+        "name": "Wiczlino - Działki I",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4372719,
+          54.4818119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/354456031",
+      "properties": {
+        "@id": "node/354456031",
+        "bus": "yes",
+        "name": "Wiczlino Niemotowo",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.404967,
+          54.5062406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/357425428",
+      "properties": {
+        "@id": "node/357425428",
+        "bus": "yes",
+        "name": "Płyta Redłowska",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5529641,
+          54.4917481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/614625287",
+      "properties": {
+        "@id": "node/614625287",
+        "bus": "yes",
+        "name": "Wiczlino - Skrzyżowanie",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4239441,
+          54.490608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1042427415",
+      "properties": {
+        "@id": "node/1042427415",
+        "bus": "yes",
+        "name": "Wzgórze Św. Maksymiliana SKM",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5366943,
+          54.5080815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1314408411",
+      "properties": {
+        "@id": "node/1314408411",
+        "bus": "yes",
+        "name": "Pogórze Górne",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4817127,
+          54.5634879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1346134104",
+      "properties": {
+        "@id": "node/1346134104",
+        "bus": "yes",
+        "name": "Wiklinowa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4445342,
+          54.5345331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1395349935",
+      "properties": {
+        "@id": "node/1395349935",
+        "bus": "yes",
+        "name": "Nawigatorów",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5496283,
+          54.4825749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1417256180",
+      "properties": {
+        "@id": "node/1417256180",
+        "bus": "yes",
+        "name": "Zwycięstwa - Wielkopolska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5446076,
+          54.4849064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1434106393",
+      "properties": {
+        "@id": "node/1434106393",
+        "bus": "yes",
+        "name": "Dąbrowa Centrum",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4651646,
+          54.4731659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1435094775",
+      "properties": {
+        "@id": "node/1435094775",
+        "bus": "yes",
+        "name": "Starodworcowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4965894,
+          54.4646657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1467987358",
+      "properties": {
+        "@id": "node/1467987358",
+        "bus": "yes",
+        "name": "Węzeł Franciszki Cegielskiej 10",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5342182,
+          54.5088343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1469766099",
+      "properties": {
+        "@id": "node/1469766099",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP - Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5295551,
+          54.5199597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1476240998",
+      "properties": {
+        "@id": "node/1476240998",
+        "bus": "yes",
+        "name": "Zakopiańska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5295623,
+          54.5165781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1477041187",
+      "properties": {
+        "@id": "node/1477041187",
+        "bus": "yes",
+        "name": "Grabowo",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5083069,
+          54.5239436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1482736266",
+      "properties": {
+        "@id": "node/1482736266",
+        "bus": "yes",
+        "name": "Owsiana",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4404095,
+          54.5465895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1625204329",
+      "properties": {
+        "@id": "node/1625204329",
+        "bus": "yes",
+        "name": "Kordeckiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4873998,
+          54.5305963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1625204521",
+      "properties": {
+        "@id": "node/1625204521",
+        "bus": "yes",
+        "name": "Grabówek SKM",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4932569,
+          54.5338269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1631859772",
+      "properties": {
+        "@id": "node/1631859772",
+        "bus": "yes",
+        "name": "Czwartaków",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5418878,
+          54.5498039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1699758064",
+      "properties": {
+        "@id": "node/1699758064",
+        "bus": "yes",
+        "name": "Raduńska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4583604,
+          54.5379601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1699869957",
+      "properties": {
+        "@id": "node/1699869957",
+        "bus": "yes",
+        "name": "Chylonia Dworzec PKP",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4617041,
+          54.5452874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1703196038",
+      "properties": {
+        "@id": "node/1703196038",
+        "bus": "yes",
+        "name": "3 Maja - Hala",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5366806,
+          54.5222048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1752686344",
+      "properties": {
+        "@id": "node/1752686344",
+        "bus": "yes",
+        "name": "Wiczlińska",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4789539,
+          54.4718423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1755235803",
+      "properties": {
+        "@id": "node/1755235803",
+        "bus": "yes",
+        "name": "Leśniczówka Rogulewo (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "shelter": "no",
+        "source": "Bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3879714,
+          54.511835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1755235805",
+      "properties": {
+        "@id": "node/1755235805",
+        "bus": "yes",
+        "name": "Ogród Botaniczny Marszewo (NŻ)",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "shelter": "no",
+        "source": "Bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4152783,
+          54.5200514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1756410504",
+      "properties": {
+        "@id": "node/1756410504",
+        "bus": "yes",
+        "name": "Olgierda",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5238832,
+          54.4782426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1765974389",
+      "properties": {
+        "@id": "node/1765974389",
+        "bus": "yes",
+        "name": "Myśliwska",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4881512,
+          54.4710556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768081935",
+      "properties": {
+        "@id": "node/1768081935",
+        "bus": "yes",
+        "name": "Kacze Buki",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4532369,
+          54.4558656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768344419",
+      "properties": {
+        "@id": "node/1768344419",
+        "bus": "yes",
+        "name": "Polifarb",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4567776,
+          54.460206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768344437",
+      "properties": {
+        "@id": "node/1768344437",
+        "bus": "yes",
+        "name": "Rdestowa - Chwaszczyńska (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4522508,
+          54.4596059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768381316",
+      "properties": {
+        "@id": "node/1768381316",
+        "bus": "yes",
+        "name": "Giełda Towarowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4542781,
+          54.4624984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768381317",
+      "properties": {
+        "@id": "node/1768381317",
+        "bus": "yes",
+        "name": "Paprykowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.465568,
+          54.467793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768381318",
+      "properties": {
+        "@id": "node/1768381318",
+        "bus": "yes",
+        "name": "Paprykowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4667765,
+          54.4683597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768381322",
+      "properties": {
+        "@id": "node/1768381322",
+        "bus": "yes",
+        "name": "Szafranowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4614796,
+          54.4658581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768434977",
+      "properties": {
+        "@id": "node/1768434977",
+        "bus": "yes",
+        "name": "Dąbrowa Centrum",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4661181,
+          54.473992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768434984",
+      "properties": {
+        "@id": "node/1768434984",
+        "bus": "yes",
+        "name": "Kameliowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4682941,
+          54.4701779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768453133",
+      "properties": {
+        "@id": "node/1768453133",
+        "bus": "yes",
+        "name": "Anyżowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4691902,
+          54.474741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768484551",
+      "properties": {
+        "@id": "node/1768484551",
+        "bus": "yes",
+        "name": "Dąbrowa Tesco",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4776339,
+          54.4732879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768493568",
+      "properties": {
+        "@id": "node/1768493568",
+        "bus": "yes",
+        "name": "Dąbrowa Tesco",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4774647,
+          54.4731963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768502434",
+      "properties": {
+        "@id": "node/1768502434",
+        "bus": "yes",
+        "name": "Buraczana",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5058799,
+          54.4690731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768502435",
+      "properties": {
+        "@id": "node/1768502435",
+        "bus": "yes",
+        "name": "Osiedle Bernadowo (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5091805,
+          54.4678683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768591405",
+      "properties": {
+        "@id": "node/1768591405",
+        "bus": "yes",
+        "name": "Buraczana",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5057669,
+          54.4692285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768591410",
+      "properties": {
+        "@id": "node/1768591410",
+        "bus": "yes",
+        "name": "Nałkowskiej",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4990763,
+          54.4697854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768591421",
+      "properties": {
+        "@id": "node/1768591421",
+        "bus": "yes",
+        "name": "Źródło Marii",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4947725,
+          54.4705766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768806709",
+      "properties": {
+        "@id": "node/1768806709",
+        "bus": "yes",
+        "name": "Szefki",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4869326,
+          54.4666285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768811801",
+      "properties": {
+        "@id": "node/1768811801",
+        "bus": "yes",
+        "name": "Gryfa Pomorskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4873924,
+          54.4677103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768811802",
+      "properties": {
+        "@id": "node/1768811802",
+        "bus": "yes",
+        "name": "Osiedle Fikakowo",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4856618,
+          54.4649064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1768869763",
+      "properties": {
+        "@id": "node/1768869763",
+        "bus": "yes",
+        "name": "Lidzka",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5172254,
+          54.4757086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1769015242",
+      "properties": {
+        "@id": "node/1769015242",
+        "bus": "yes",
+        "name": "Bławatna",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4483711,
+          54.5333468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1783658210",
+      "properties": {
+        "@id": "node/1783658210",
+        "bus": "yes",
+        "name": "Myśliwska",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4885439,
+          54.4711974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1784918376",
+      "properties": {
+        "@id": "node/1784918376",
+        "bus": "yes",
+        "name": "Centrum Handlowe Batory",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5400103,
+          54.5194772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1784918388",
+      "properties": {
+        "@id": "node/1784918388",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.531128,
+          54.5218506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1784918400",
+      "properties": {
+        "@id": "node/1784918400",
+        "bus": "yes",
+        "name": "Przystań Żeglugi",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5559487,
+          54.5188562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1784918593",
+      "properties": {
+        "@id": "node/1784918593",
+        "bus": "yes",
+        "name": "3 Maja 02",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5367956,
+          54.5196358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785069074",
+      "properties": {
+        "@id": "node/1785069074",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP - Hala",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5322981,
+          54.5220272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785594185",
+      "properties": {
+        "@id": "node/1785594185",
+        "bus": "yes",
+        "name": "Bpa Okoniewskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5217607,
+          54.5231646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785594191",
+      "properties": {
+        "@id": "node/1785594191",
+        "bus": "yes",
+        "name": "Plac Kaszubski - Świętojańska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5431742,
+          54.5209735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785594196",
+      "properties": {
+        "@id": "node/1785594196",
+        "bus": "yes",
+        "name": "Plac Kaszubski",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5407187,
+          54.5223872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785602005",
+      "properties": {
+        "@id": "node/1785602005",
+        "bus": "yes",
+        "name": "Akademia Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5089582,
+          54.5278252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785602010",
+      "properties": {
+        "@id": "node/1785602010",
+        "bus": "yes",
+        "name": "Stocznia SKM - Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5170676,
+          54.524875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785622151",
+      "properties": {
+        "@id": "node/1785622151",
+        "bus": "yes",
+        "name": "Węzeł Żołnierzy Wyklętych",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.482241,
+          54.5347908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785622153",
+      "properties": {
+        "@id": "node/1785622153",
+        "bus": "yes",
+        "name": "Morska - Estakada",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4908152,
+          54.532585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785622154",
+      "properties": {
+        "@id": "node/1785622154",
+        "bus": "yes",
+        "name": "Zamenhofa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4779344,
+          54.5363232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785634457",
+      "properties": {
+        "@id": "node/1785634457",
+        "bus": "yes",
+        "name": "Chylonia Centrum",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4599193,
+          54.5421189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785634458",
+      "properties": {
+        "@id": "node/1785634458",
+        "bus": "yes",
+        "name": "Hipermarket Tesco - Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4511026,
+          54.54432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785634459",
+      "properties": {
+        "@id": "node/1785634459",
+        "bus": "yes",
+        "name": "Jęczmienna",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4419527,
+          54.5475571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785634460",
+      "properties": {
+        "@id": "node/1785634460",
+        "bus": "yes",
+        "name": "Wiejska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4705184,
+          54.5388624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1785634461",
+      "properties": {
+        "@id": "node/1785634461",
+        "bus": "yes",
+        "name": "Zbożowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4470175,
+          54.545249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786528486",
+      "properties": {
+        "@id": "node/1786528486",
+        "bus": "yes",
+        "name": "Owsiana",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4421666,
+          54.5461399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943511",
+      "properties": {
+        "@id": "node/1786943511",
+        "bus": "yes",
+        "name": "Akademia Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5111392,
+          54.5269628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943517",
+      "properties": {
+        "@id": "node/1786943517",
+        "bus": "yes",
+        "name": "Bpa Okoniewskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5225536,
+          54.5227691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943527",
+      "properties": {
+        "@id": "node/1786943527",
+        "bus": "yes",
+        "name": "Chylonia Centrum",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4613777,
+          54.5415643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943528",
+      "properties": {
+        "@id": "node/1786943528",
+        "bus": "yes",
+        "name": "Węzeł Żołnierzy Wyklętych",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4804816,
+          54.5352884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943529",
+      "properties": {
+        "@id": "node/1786943529",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP - Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5282203,
+          54.5205465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943530",
+      "properties": {
+        "@id": "node/1786943530",
+        "bus": "yes",
+        "name": "Hipermarket Tesco - Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4513201,
+          54.5441555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943531",
+      "properties": {
+        "@id": "node/1786943531",
+        "bus": "yes",
+        "name": "Kalksztajnów",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4969699,
+          54.5308358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943532",
+      "properties": {
+        "@id": "node/1786943532",
+        "bus": "yes",
+        "name": "Mireckiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5040832,
+          54.5289763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943533",
+      "properties": {
+        "@id": "node/1786943533",
+        "bus": "yes",
+        "name": "Morska - Estakada",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4897645,
+          54.5324777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943534",
+      "properties": {
+        "@id": "node/1786943534",
+        "bus": "yes",
+        "name": "Plac Kaszubski - Świętojańska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5432026,
+          54.5225655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943535",
+      "properties": {
+        "@id": "node/1786943535",
+        "bus": "yes",
+        "name": "Stocznia SKM - Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167869,
+          54.5248759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943536",
+      "properties": {
+        "@id": "node/1786943536",
+        "bus": "yes",
+        "name": "Wiejska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4719959,
+          54.5382256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786943537",
+      "properties": {
+        "@id": "node/1786943537",
+        "bus": "yes",
+        "name": "Zbożowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.447,
+          54.5451343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1786948244",
+      "properties": {
+        "@id": "node/1786948244",
+        "bus": "yes",
+        "name": "Plac Kaszubski - Jana z Kolna",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.542497,
+          54.5233978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788563747",
+      "properties": {
+        "@id": "node/1788563747",
+        "bus": "yes",
+        "name": "Chwarzno Apollina",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.457755,
+          54.5003279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789072372",
+      "properties": {
+        "@id": "node/1789072372",
+        "bus": "yes",
+        "name": "Mireckiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.50274,
+          54.5295252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789657906",
+      "properties": {
+        "@id": "node/1789657906",
+        "bus": "yes",
+        "name": "Polifarb",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4566292,
+          54.4605935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793753751",
+      "properties": {
+        "@id": "node/1793753751",
+        "bus": "yes",
+        "name": "Olgierda",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.523791,
+          54.478331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793753757",
+      "properties": {
+        "@id": "node/1793753757",
+        "bus": "yes",
+        "name": "Racławicka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5147375,
+          54.4735031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791752",
+      "properties": {
+        "@id": "node/1793791752",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Główny PKP - Hala",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5319049,
+          54.5228389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791753",
+      "properties": {
+        "@id": "node/1793791753",
+        "bus": "yes",
+        "name": "Harcerska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5363564,
+          54.50339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791754",
+      "properties": {
+        "@id": "node/1793791754",
+        "bus": "yes",
+        "name": "Centrum Nauki Experyment",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5382586,
+          54.4968559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791755",
+      "properties": {
+        "@id": "node/1793791755",
+        "bus": "yes",
+        "name": "Centrum Nauki Experyment",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5381471,
+          54.4975407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791756",
+      "properties": {
+        "@id": "node/1793791756",
+        "bus": "yes",
+        "name": "Plac Górnośląski",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5385434,
+          54.4833931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791757",
+      "properties": {
+        "@id": "node/1793791757",
+        "bus": "yes",
+        "name": "Plac Górnośląski",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5385816,
+          54.4834611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791758",
+      "properties": {
+        "@id": "node/1793791758",
+        "bus": "yes",
+        "name": "Redłowo SKM - Park Technologiczny",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5407656,
+          54.4920872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791759",
+      "properties": {
+        "@id": "node/1793791759",
+        "bus": "yes",
+        "name": "Redłowo SKM - Park Technologiczny",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5404721,
+          54.4927745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791760",
+      "properties": {
+        "@id": "node/1793791760",
+        "bus": "yes",
+        "name": "Skwer Kościuszki",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5419425,
+          54.5180312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791761",
+      "properties": {
+        "@id": "node/1793791761",
+        "bus": "yes",
+        "name": "Traugutta",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5394198,
+          54.5122962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791762",
+      "properties": {
+        "@id": "node/1793791762",
+        "bus": "yes",
+        "name": "Urząd Miasta - Świętojańska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5379129,
+          54.5086508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791763",
+      "properties": {
+        "@id": "node/1793791763",
+        "bus": "yes",
+        "name": "Zwycięstwa - Wielkopolska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.544895,
+          54.4864561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791824",
+      "properties": {
+        "@id": "node/1793791824",
+        "bus": "yes",
+        "name": "Łowicka",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5311214,
+          54.4809804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791825",
+      "properties": {
+        "@id": "node/1793791825",
+        "bus": "yes",
+        "name": "Łowicka",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5312087,
+          54.4812512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793791826",
+      "properties": {
+        "@id": "node/1793791826",
+        "bus": "yes",
+        "name": "Żwirki i Wigury",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5407707,
+          54.515404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793794240",
+      "properties": {
+        "@id": "node/1793794240",
+        "bus": "yes",
+        "name": "Węzeł Ofiar Grudnia '70",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5184292,
+          54.5278459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1793794241",
+      "properties": {
+        "@id": "node/1793794241",
+        "bus": "yes",
+        "name": "Stocznia Gdynia",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5169661,
+          54.5321407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175358",
+      "properties": {
+        "@id": "node/1794175358",
+        "bus": "yes",
+        "name": "Dąbrowa Tesco",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4773453,
+          54.4731253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175371",
+      "properties": {
+        "@id": "node/1794175371",
+        "bus": "yes",
+        "name": "Harcerska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.536427,
+          54.501963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175375",
+      "properties": {
+        "@id": "node/1794175375",
+        "bus": "yes",
+        "name": "Lidzka",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.51618,
+          54.4756026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175391",
+      "properties": {
+        "@id": "node/1794175391",
+        "bus": "yes",
+        "name": "Plac Kaszubski",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5414859,
+          54.5224198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175401",
+      "properties": {
+        "@id": "node/1794175401",
+        "bus": "yes",
+        "name": "Racławicka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5132023,
+          54.472259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175407",
+      "properties": {
+        "@id": "node/1794175407",
+        "bus": "yes",
+        "name": "Skwer Kościuszki - InfoBox",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5423445,
+          54.518943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175414",
+      "properties": {
+        "@id": "node/1794175414",
+        "bus": "yes",
+        "name": "Stocznia Gdynia",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167227,
+          54.5319322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175421",
+      "properties": {
+        "@id": "node/1794175421",
+        "bus": "yes",
+        "name": "Traugutta",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5389153,
+          54.511081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175428",
+      "properties": {
+        "@id": "node/1794175428",
+        "bus": "yes",
+        "name": "Wybickiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5414374,
+          54.5168978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175430",
+      "properties": {
+        "@id": "node/1794175430",
+        "bus": "yes",
+        "name": "Wzgórze Św. Maksymiliana - Kapliczka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5360029,
+          54.5055386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794175579",
+      "properties": {
+        "@id": "node/1794175579",
+        "bus": "yes",
+        "name": "Żwirki i Wigury",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5402696,
+          54.5142861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794299630",
+      "properties": {
+        "@id": "node/1794299630",
+        "bus": "yes",
+        "name": "Dąbrowa Miętowa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4501804,
+          54.4713989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794299631",
+      "properties": {
+        "@id": "node/1794299631",
+        "bus": "yes",
+        "name": "Piołunowa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4575205,
+          54.4743365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794299634",
+      "properties": {
+        "@id": "node/1794299634",
+        "bus": "yes",
+        "name": "Tymiankowa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4529295,
+          54.4724462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794338804",
+      "properties": {
+        "@id": "node/1794338804",
+        "bus": "yes",
+        "name": "Dąbrowa Centrum",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4641337,
+          54.4744956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794759859",
+      "properties": {
+        "@id": "node/1794759859",
+        "bus": "yes",
+        "name": "Chylonia Dworzec PKP",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4619732,
+          54.5448508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794759863",
+      "properties": {
+        "@id": "node/1794759863",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5300411,
+          54.5224918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794759864",
+      "properties": {
+        "@id": "node/1794759864",
+        "bus": "yes",
+        "name": "Kcyńska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4541492,
+          54.5468146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794759865",
+      "properties": {
+        "@id": "node/1794759865",
+        "bus": "yes",
+        "name": "Leszczynki SKM",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.477245,
+          54.5407447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794759866",
+      "properties": {
+        "@id": "node/1794759866",
+        "bus": "yes",
+        "name": "Piaskowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4491772,
+          54.5480611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794759867",
+      "properties": {
+        "@id": "node/1794759867",
+        "bus": "yes",
+        "name": "Pucka",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4695144,
+          54.5429475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794759868",
+      "properties": {
+        "@id": "node/1794759868",
+        "bus": "yes",
+        "name": "Zamenhofa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4784949,
+          54.5376917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794854283",
+      "properties": {
+        "@id": "node/1794854283",
+        "bus": "yes",
+        "name": "Witomińska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5320953,
+          54.5126025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794854284",
+      "properties": {
+        "@id": "node/1794854284",
+        "bus": "yes",
+        "name": "Wzgórze Św. Maksymiliana SKM",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5369833,
+          54.508605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1794892918",
+      "properties": {
+        "@id": "node/1794892918",
+        "bus": "yes",
+        "name": "Węzeł Franciszki Cegielskiej",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5345351,
+          54.5086402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494953",
+      "properties": {
+        "@id": "node/1802494953",
+        "bus": "yes",
+        "name": "Armii Krajowej",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5386498,
+          54.517434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494954",
+      "properties": {
+        "@id": "node/1802494954",
+        "bus": "yes",
+        "name": "Armii Krajowej",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5389307,
+          54.5180779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494960",
+      "properties": {
+        "@id": "node/1802494960",
+        "bus": "yes",
+        "name": "Bernadowska (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5540097,
+          54.4630675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494966",
+      "properties": {
+        "@id": "node/1802494966",
+        "bus": "yes",
+        "name": "Bernadowska (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5538721,
+          54.4632465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494981",
+      "properties": {
+        "@id": "node/1802494981",
+        "bus": "yes",
+        "name": "Kolibki",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5540514,
+          54.4733408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494982",
+      "properties": {
+        "@id": "node/1802494982",
+        "bus": "yes",
+        "name": "Nawigatorów",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5491072,
+          54.4829718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494984",
+      "properties": {
+        "@id": "node/1802494984",
+        "bus": "yes",
+        "name": "Orłowo SKM - \"Klif\"",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5531956,
+          54.475972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494989",
+      "properties": {
+        "@id": "node/1802494989",
+        "bus": "yes",
+        "name": "Orłowo SKM - \"Klif\"",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5532397,
+          54.4766434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802494995",
+      "properties": {
+        "@id": "node/1802494995",
+        "bus": "yes",
+        "name": "Orłowo SKM - Orłowska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5527884,
+          54.4787346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802495010",
+      "properties": {
+        "@id": "node/1802495010",
+        "bus": "yes",
+        "name": "Orłowo SKM - Orłowska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5524532,
+          54.4796752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802889147",
+      "properties": {
+        "@id": "node/1802889147",
+        "bus": "yes",
+        "name": "Cisowa Sibeliusa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4348583,
+          54.5479159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1802889148",
+      "properties": {
+        "@id": "node/1802889148",
+        "bus": "yes",
+        "name": "Orłowo SKM - \"Klif\"",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5529735,
+          54.4760179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1803126608",
+      "properties": {
+        "@id": "node/1803126608",
+        "bus": "yes",
+        "name": "Jaskółcza",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4536344,
+          54.5340382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1803147223",
+      "properties": {
+        "@id": "node/1803147223",
+        "bus": "yes",
+        "name": "Żurawia",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4392757,
+          54.5377209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1808443067",
+      "properties": {
+        "@id": "node/1808443067",
+        "bus": "yes",
+        "name": "Pogórze Dolne Złota",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4668665,
+          54.5607723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1814997303",
+      "properties": {
+        "@id": "node/1814997303",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5304639,
+          54.5216007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1814998338",
+      "properties": {
+        "@id": "node/1814998338",
+        "bus": "yes",
+        "name": "Chylonia Dworzec PKP",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4628495,
+          54.5446238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815681313",
+      "properties": {
+        "@id": "node/1815681313",
+        "bus": "yes",
+        "name": "Maciejewicza",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5088122,
+          54.5626279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815681314",
+      "properties": {
+        "@id": "node/1815681314",
+        "bus": "yes",
+        "name": "Obłuże Centrum",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5061287,
+          54.5508303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815681316",
+      "properties": {
+        "@id": "node/1815681316",
+        "bus": "yes",
+        "name": "Rzymowskiego",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4997845,
+          54.5630936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815681317",
+      "properties": {
+        "@id": "node/1815681317",
+        "bus": "yes",
+        "name": "Sikorskiego",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4938102,
+          54.5629156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815681318",
+      "properties": {
+        "@id": "node/1815681318",
+        "bus": "yes",
+        "name": "Stare Obłuże",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5104431,
+          54.560086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1815681319",
+      "properties": {
+        "@id": "node/1815681319",
+        "bus": "yes",
+        "name": "Steyera",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4868194,
+          54.5628562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816027747",
+      "properties": {
+        "@id": "node/1816027747",
+        "bus": "yes",
+        "name": "Rzymowskiego",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4985864,
+          54.5631391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816027748",
+      "properties": {
+        "@id": "node/1816027748",
+        "bus": "yes",
+        "name": "Sikorskiego",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4939798,
+          54.5630093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816027749",
+      "properties": {
+        "@id": "node/1816027749",
+        "bus": "yes",
+        "name": "Steyera",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4859553,
+          54.5633405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095537",
+      "properties": {
+        "@id": "node/1816095537",
+        "bus": "yes",
+        "name": "Chabrowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4551245,
+          54.5316841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095541",
+      "properties": {
+        "@id": "node/1816095541",
+        "bus": "yes",
+        "name": "Chabrowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4557159,
+          54.5324789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095542",
+      "properties": {
+        "@id": "node/1816095542",
+        "bus": "yes",
+        "name": "Chylonia Dworzec PKP",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4620992,
+          54.5438617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095544",
+      "properties": {
+        "@id": "node/1816095544",
+        "bus": "yes",
+        "name": "Chylonia Dworzec PKP",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4622313,
+          54.5457093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095548",
+      "properties": {
+        "@id": "node/1816095548",
+        "bus": "yes",
+        "name": "Demptowo",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4631871,
+          54.5256198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095565",
+      "properties": {
+        "@id": "node/1816095565",
+        "bus": "yes",
+        "name": "Rybińskiego",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4579948,
+          54.5297646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095566",
+      "properties": {
+        "@id": "node/1816095566",
+        "bus": "yes",
+        "name": "Skarbka I",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4569334,
+          54.5290496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816095567",
+      "properties": {
+        "@id": "node/1816095567",
+        "bus": "yes",
+        "name": "Skarbka II",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.45973,
+          54.5269191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816133551",
+      "properties": {
+        "@id": "node/1816133551",
+        "bus": "yes",
+        "name": "Babie Doły",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5389315,
+          54.5778332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816133565",
+      "properties": {
+        "@id": "node/1816133565",
+        "bus": "yes",
+        "name": "Babie Doły",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5396516,
+          54.5782277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816133566",
+      "properties": {
+        "@id": "node/1816133566",
+        "bus": "yes",
+        "name": "Zielona - Kościół (NŻ)",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5374841,
+          54.5753791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816163573",
+      "properties": {
+        "@id": "node/1816163573",
+        "bus": "yes",
+        "name": "Wąwóz Ostrowicki (NŻ)",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5347197,
+          54.5647383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816163577",
+      "properties": {
+        "@id": "node/1816163577",
+        "bus": "yes",
+        "name": "Zielona - Działki I (NŻ)",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.533279,
+          54.5606699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816163582",
+      "properties": {
+        "@id": "node/1816163582",
+        "bus": "yes",
+        "name": "Zielona - Działki II (NŻ)",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.531254,
+          54.5562091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816238686",
+      "properties": {
+        "@id": "node/1816238686",
+        "bus": "yes",
+        "name": "Bosmańska - Zielona",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5296247,
+          54.5487433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816238709",
+      "properties": {
+        "@id": "node/1816238709",
+        "bus": "yes",
+        "name": "Dąbka - Zielona",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5300699,
+          54.552831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785152",
+      "properties": {
+        "@id": "node/1816785152",
+        "bus": "yes",
+        "name": "Bosmańska - Nasypowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5204087,
+          54.5485618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785153",
+      "properties": {
+        "@id": "node/1816785153",
+        "bus": "yes",
+        "name": "Cechowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5121122,
+          54.5499882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785154",
+      "properties": {
+        "@id": "node/1816785154",
+        "bus": "yes",
+        "name": "Gdynia Arena (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5324549,
+          54.4983703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785161",
+      "properties": {
+        "@id": "node/1816785161",
+        "bus": "yes",
+        "name": "Hutnicza - Estakada",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4936598,
+          54.5381559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785167",
+      "properties": {
+        "@id": "node/1816785167",
+        "bus": "yes",
+        "name": "Redłowo SKM",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5370196,
+          54.4911063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785180",
+      "properties": {
+        "@id": "node/1816785180",
+        "bus": "yes",
+        "name": "Redłowo SKM",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5371444,
+          54.4912491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785182",
+      "properties": {
+        "@id": "node/1816785182",
+        "bus": "yes",
+        "name": "Urząd Miasta - Władysława IV",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5370952,
+          54.5105151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785186",
+      "properties": {
+        "@id": "node/1816785186",
+        "bus": "yes",
+        "name": "Centrum Handlowe \"Riviera\"‎",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5330599,
+          54.5032854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1816785352",
+      "properties": {
+        "@id": "node/1816785352",
+        "bus": "yes",
+        "name": "Łużycka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5348392,
+          54.4946991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823180204",
+      "properties": {
+        "@id": "node/1823180204",
+        "bus": "yes",
+        "name": "Hutnicza - Estakada",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4946414,
+          54.5385462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823180205",
+      "properties": {
+        "@id": "node/1823180205",
+        "bus": "yes",
+        "name": "I Urząd Skarbowy 01",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5387166,
+          54.5227974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823180206",
+      "properties": {
+        "@id": "node/1823180206",
+        "bus": "yes",
+        "name": "Kilińskiego",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5382718,
+          54.5144392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823249609",
+      "properties": {
+        "@id": "node/1823249609",
+        "bus": "yes",
+        "name": "Bosmańska - Zielona",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5305813,
+          54.5493448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823249610",
+      "properties": {
+        "@id": "node/1823249610",
+        "bus": "yes",
+        "name": "Cechowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5143633,
+          54.5492304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823249611",
+      "properties": {
+        "@id": "node/1823249611",
+        "bus": "yes",
+        "name": "Dąbka - Zielona",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5302829,
+          54.5538369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384508",
+      "properties": {
+        "@id": "node/1823384508",
+        "bus": "yes",
+        "name": "Celna (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.524985,
+          54.5265772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384509",
+      "properties": {
+        "@id": "node/1823384509",
+        "bus": "yes",
+        "name": "Celna (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5234229,
+          54.5267987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384510",
+      "properties": {
+        "@id": "node/1823384510",
+        "bus": "yes",
+        "name": "Chrzanowskiego (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5399971,
+          54.5309573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384511",
+      "properties": {
+        "@id": "node/1823384511",
+        "bus": "yes",
+        "name": "Chrzanowskiego (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5425569,
+          54.5311904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384512",
+      "properties": {
+        "@id": "node/1823384512",
+        "bus": "yes",
+        "name": "Dom Marynarza",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.548434,
+          54.5079569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384513",
+      "properties": {
+        "@id": "node/1823384513",
+        "bus": "yes",
+        "name": "Dworzec Morski - Muzeum Emigracji",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5468128,
+          54.5326677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384514",
+      "properties": {
+        "@id": "node/1823384514",
+        "bus": "yes",
+        "name": "Hallera",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5417606,
+          54.4996714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384515",
+      "properties": {
+        "@id": "node/1823384515",
+        "bus": "yes",
+        "name": "Kilińskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.537809,
+          54.513367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384516",
+      "properties": {
+        "@id": "node/1823384516",
+        "bus": "yes",
+        "name": "POSTI (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5376842,
+          54.5294236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384517",
+      "properties": {
+        "@id": "node/1823384517",
+        "bus": "yes",
+        "name": "POSTI (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5367956,
+          54.529753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384518",
+      "properties": {
+        "@id": "node/1823384518",
+        "bus": "yes",
+        "name": "Centrum Nauki Experyment",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5389402,
+          54.4971126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384519",
+      "properties": {
+        "@id": "node/1823384519",
+        "bus": "yes",
+        "name": "Piłsudskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5440517,
+          54.5086028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384520",
+      "properties": {
+        "@id": "node/1823384520",
+        "bus": "yes",
+        "name": "Rotterdamska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5294659,
+          54.5270229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384521",
+      "properties": {
+        "@id": "node/1823384521",
+        "bus": "yes",
+        "name": "Rotterdamska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5311879,
+          54.5271215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384522",
+      "properties": {
+        "@id": "node/1823384522",
+        "bus": "yes",
+        "name": "Wzgórze Św. Maksymiliana - Syrokomli",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5421675,
+          54.5033245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384523",
+      "properties": {
+        "@id": "node/1823384523",
+        "bus": "yes",
+        "name": "Węzeł Ofiar Grudnia '70",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5201251,
+          54.5268524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1823384524",
+      "properties": {
+        "@id": "node/1823384524",
+        "bus": "yes",
+        "name": "Węzeł Ofiar Grudnia '70",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5196047,
+          54.5269633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747870",
+      "properties": {
+        "@id": "node/1824747870",
+        "bus": "yes",
+        "name": "Brzechwy",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4898398,
+          54.472778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747871",
+      "properties": {
+        "@id": "node/1824747871",
+        "bus": "yes",
+        "name": "Karwiny Tuwima",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4847528,
+          54.4739368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747872",
+      "properties": {
+        "@id": "node/1824747872",
+        "bus": "yes",
+        "name": "Stadion Miejski",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5305069,
+          54.492198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747873",
+      "properties": {
+        "@id": "node/1824747873",
+        "bus": "yes",
+        "name": "Redłowo SKM",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5367384,
+          54.4917048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747874",
+      "properties": {
+        "@id": "node/1824747874",
+        "bus": "yes",
+        "name": "Redłowo SKM",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5389698,
+          54.4920312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747875",
+      "properties": {
+        "@id": "node/1824747875",
+        "bus": "yes",
+        "name": "Uczniowska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5029585,
+          54.4986309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747876",
+      "properties": {
+        "@id": "node/1824747876",
+        "bus": "yes",
+        "name": "Witomino Centrum",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5093721,
+          54.497795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747877",
+      "properties": {
+        "@id": "node/1824747877",
+        "bus": "yes",
+        "name": "Witomino Centrum",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5103895,
+          54.49779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747878",
+      "properties": {
+        "@id": "node/1824747878",
+        "bus": "yes",
+        "name": "Witomino Centrum",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5077324,
+          54.4985824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824747880",
+      "properties": {
+        "@id": "node/1824747880",
+        "bus": "yes",
+        "name": "Witomino Sosnowa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4958341,
+          54.4983508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824766508",
+      "properties": {
+        "@id": "node/1824766508",
+        "bus": "yes",
+        "name": "Okrężna I",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4706737,
+          54.4999216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824766509",
+      "properties": {
+        "@id": "node/1824766509",
+        "bus": "yes",
+        "name": "Okrężna I",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.470481,
+          54.5000294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824766510",
+      "properties": {
+        "@id": "node/1824766510",
+        "bus": "yes",
+        "name": "Okrężna II",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4667249,
+          54.5002558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824766511",
+      "properties": {
+        "@id": "node/1824766511",
+        "bus": "yes",
+        "name": "Okrężna II",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4658316,
+          54.5004437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824806278",
+      "properties": {
+        "@id": "node/1824806278",
+        "bus": "yes",
+        "name": "Amona (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4464329,
+          54.4997717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824806297",
+      "properties": {
+        "@id": "node/1824806297",
+        "bus": "yes",
+        "name": "Chwarzno Sokółka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4377361,
+          54.4973106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824806300",
+      "properties": {
+        "@id": "node/1824806300",
+        "bus": "yes",
+        "name": "Chwarzno Sokółka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4384595,
+          54.4976115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824806301",
+      "properties": {
+        "@id": "node/1824806301",
+        "bus": "yes",
+        "name": "Chwarzno Apollina",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.456716,
+          54.500054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824806302",
+      "properties": {
+        "@id": "node/1824806302",
+        "bus": "yes",
+        "name": "Sokoła",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4405104,
+          54.4987703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824806307",
+      "properties": {
+        "@id": "node/1824806307",
+        "bus": "yes",
+        "name": "Tezeusza",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4496352,
+          54.500349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887367",
+      "properties": {
+        "@id": "node/1824887367",
+        "bus": "yes",
+        "name": "Gierdziejewskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4327277,
+          54.4989322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887371",
+      "properties": {
+        "@id": "node/1824887371",
+        "bus": "yes",
+        "name": "Gierdziejewskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4338368,
+          54.4991743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887374",
+      "properties": {
+        "@id": "node/1824887374",
+        "bus": "yes",
+        "name": "Gradowa (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4332085,
+          54.4857748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887377",
+      "properties": {
+        "@id": "node/1824887377",
+        "bus": "yes",
+        "name": "Kamrowskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4307895,
+          54.4970646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887390",
+      "properties": {
+        "@id": "node/1824887390",
+        "bus": "yes",
+        "name": "Wiczlino - Działki II",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4419982,
+          54.4811592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887392",
+      "properties": {
+        "@id": "node/1824887392",
+        "bus": "yes",
+        "name": "Wiczlino - Skrzyżowanie",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.424778,
+          54.4905707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887393",
+      "properties": {
+        "@id": "node/1824887393",
+        "bus": "yes",
+        "name": "Wiczlińska - Las (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4511958,
+          54.4781703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887394",
+      "properties": {
+        "@id": "node/1824887394",
+        "bus": "yes",
+        "name": "Wiczlińska - Śliska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4371955,
+          54.4832377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1824887397",
+      "properties": {
+        "@id": "node/1824887397",
+        "bus": "yes",
+        "name": "Zaruskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4300351,
+          54.4944096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825096713",
+      "properties": {
+        "@id": "node/1825096713",
+        "bus": "yes",
+        "name": "Węzeł Ofiar Grudnia '70",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167551,
+          54.5280009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825096716",
+      "properties": {
+        "@id": "node/1825096716",
+        "bus": "yes",
+        "name": "Węzeł Ofiar Grudnia '70",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5167987,
+          54.528276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136060",
+      "properties": {
+        "@id": "node/1825136060",
+        "bus": "yes",
+        "name": "Energetyków",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "source:position": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4991893,
+          54.5396969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136061",
+      "properties": {
+        "@id": "node/1825136061",
+        "bus": "yes",
+        "name": "Energetyków",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "source:position": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4988765,
+          54.5397098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136062",
+      "properties": {
+        "@id": "node/1825136062",
+        "bus": "yes",
+        "name": "Gruszkowa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4629188,
+          54.5486759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136063",
+      "properties": {
+        "@id": "node/1825136063",
+        "bus": "yes",
+        "name": "Gruszkowa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4613202,
+          54.5491514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136064",
+      "properties": {
+        "@id": "node/1825136064",
+        "bus": "yes",
+        "name": "Hala \"Makro\"",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4846158,
+          54.5422994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136065",
+      "properties": {
+        "@id": "node/1825136065",
+        "bus": "yes",
+        "name": "Hutnicza - Estakada",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4924604,
+          54.5389687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136066",
+      "properties": {
+        "@id": "node/1825136066",
+        "bus": "yes",
+        "name": "II Urząd Skarbowy",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4717205,
+          54.5477743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825136067",
+      "properties": {
+        "@id": "node/1825136067",
+        "bus": "yes",
+        "name": "Pucka - Hutnicza",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4663337,
+          54.5484584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825165068",
+      "properties": {
+        "@id": "node/1825165068",
+        "bus": "yes",
+        "name": "Handlowa (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4381111,
+          54.5542367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825165076",
+      "properties": {
+        "@id": "node/1825165076",
+        "bus": "yes",
+        "name": "Hutnicza - Działki (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4285064,
+          54.5567377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825165077",
+      "properties": {
+        "@id": "node/1825165077",
+        "bus": "yes",
+        "name": "Hutnicza - Piaskowa (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4482826,
+          54.5520985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825500323",
+      "properties": {
+        "@id": "node/1825500323",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP - Hala",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5344615,
+          54.5221236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825662600",
+      "properties": {
+        "@id": "node/1825662600",
+        "bus": "yes",
+        "name": "Podgórska",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4992429,
+          54.5534825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825662603",
+      "properties": {
+        "@id": "node/1825662603",
+        "bus": "yes",
+        "name": "Pogórze Dolne",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4781793,
+          54.5575101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825662607",
+      "properties": {
+        "@id": "node/1825662607",
+        "bus": "yes",
+        "name": "Pogórze Dolne",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4782402,
+          54.5576571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825662810",
+      "properties": {
+        "@id": "node/1825662810",
+        "bus": "yes",
+        "name": "Żelazna",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4839338,
+          54.5557251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825662811",
+      "properties": {
+        "@id": "node/1825662811",
+        "bus": "yes",
+        "name": "Żelazna",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4815361,
+          54.5562591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825662812",
+      "properties": {
+        "@id": "node/1825662812",
+        "bus": "yes",
+        "name": "Żeliwna",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4916762,
+          54.5548498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825691886",
+      "properties": {
+        "@id": "node/1825691886",
+        "bus": "yes",
+        "name": "Gołębia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "source:position": "geoportal.gov.pl:ortofoto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4988326,
+          54.5439276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825691888",
+      "properties": {
+        "@id": "node/1825691888",
+        "bus": "yes",
+        "name": "Powstań Chłopskich",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.548395,
+          54.4897313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825691889",
+      "properties": {
+        "@id": "node/1825691889",
+        "bus": "yes",
+        "name": "Redłowo Szpital",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5552642,
+          54.4896709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825691892",
+      "properties": {
+        "@id": "node/1825691892",
+        "bus": "yes",
+        "name": "Ruchu Oporu",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5422332,
+          54.4923994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825772037",
+      "properties": {
+        "@id": "node/1825772037",
+        "bus": "yes",
+        "name": "Kuśnierska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5034066,
+          54.5526402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825772046",
+      "properties": {
+        "@id": "node/1825772046",
+        "bus": "yes",
+        "name": "Morska - Estakada",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4894998,
+          54.533297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825772056",
+      "properties": {
+        "@id": "node/1825772056",
+        "bus": "yes",
+        "name": "Ruchu Oporu",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5414966,
+          54.493599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825772061",
+      "properties": {
+        "@id": "node/1825772061",
+        "bus": "yes",
+        "name": "Terminal Promowy",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5015817,
+          54.5480489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825804849",
+      "properties": {
+        "@id": "node/1825804849",
+        "bus": "yes",
+        "name": "Elektrociepłownia - Kontenerowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4869539,
+          54.5510227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825804850",
+      "properties": {
+        "@id": "node/1825804850",
+        "bus": "yes",
+        "name": "Terminal Promowy",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4988156,
+          54.5490014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825826313",
+      "properties": {
+        "@id": "node/1825826313",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP - Dworcowa",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5314731,
+          54.5209159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1825975912",
+      "properties": {
+        "@id": "node/1825975912",
+        "bus": "yes",
+        "name": "Terminal Promowy",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5025028,
+          54.5467725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805198",
+      "properties": {
+        "@id": "node/1826805198",
+        "bus": "yes",
+        "name": "Alzacka",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5394994,
+          54.5495477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805218",
+      "properties": {
+        "@id": "node/1826805218",
+        "bus": "yes",
+        "name": "Benisławskiego",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5258885,
+          54.554214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805224",
+      "properties": {
+        "@id": "node/1826805224",
+        "bus": "yes",
+        "name": "Bosmańska - Zielona",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.531544,
+          54.5488513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805228",
+      "properties": {
+        "@id": "node/1826805228",
+        "bus": "yes",
+        "name": "Dom Marynarza",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5493208,
+          54.507777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805229",
+      "properties": {
+        "@id": "node/1826805229",
+        "bus": "yes",
+        "name": "Dąbka - Zespół Szkół",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5202842,
+          54.5560879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805239",
+      "properties": {
+        "@id": "node/1826805239",
+        "bus": "yes",
+        "name": "Grudzińskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5419008,
+          54.5426613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805240",
+      "properties": {
+        "@id": "node/1826805240",
+        "bus": "yes",
+        "name": "Grudzińskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5434102,
+          54.5427332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805243",
+      "properties": {
+        "@id": "node/1826805243",
+        "bus": "yes",
+        "name": "Janka Wiśniewskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5105043,
+          54.5313164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805246",
+      "properties": {
+        "@id": "node/1826805246",
+        "bus": "yes",
+        "name": "Janka Wiśniewskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5088554,
+          54.5326717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805248",
+      "properties": {
+        "@id": "node/1826805248",
+        "bus": "yes",
+        "name": "Kwiatkowskiego",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5076159,
+          54.5557881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805249",
+      "properties": {
+        "@id": "node/1826805249",
+        "bus": "yes",
+        "name": "Muchowskiego",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5515314,
+          54.5481654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805250",
+      "properties": {
+        "@id": "node/1826805250",
+        "bus": "yes",
+        "name": "Nasypowa (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5187012,
+          54.5474886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805251",
+      "properties": {
+        "@id": "node/1826805251",
+        "bus": "yes",
+        "name": "Oksywie - Dolne",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5468243,
+          54.5429167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805252",
+      "properties": {
+        "@id": "node/1826805252",
+        "bus": "yes",
+        "name": "Oksywie - Górne",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5476574,
+          54.5489093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805253",
+      "properties": {
+        "@id": "node/1826805253",
+        "bus": "yes",
+        "name": "Stocznia Marynarki Wojennej",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5357053,
+          54.54255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805254",
+      "properties": {
+        "@id": "node/1826805254",
+        "bus": "yes",
+        "name": "Stocznia Marynarki Wojennej",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5346045,
+          54.542652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805255",
+      "properties": {
+        "@id": "node/1826805255",
+        "bus": "yes",
+        "name": "Turkusowa",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5160938,
+          54.5574979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1826805256",
+      "properties": {
+        "@id": "node/1826805256",
+        "bus": "yes",
+        "name": "Turkusowa",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5149414,
+          54.5578701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827366014",
+      "properties": {
+        "@id": "node/1827366014",
+        "bus": "yes",
+        "name": "Cylkowskiego",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5517988,
+          54.4937737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827366015",
+      "properties": {
+        "@id": "node/1827366015",
+        "bus": "yes",
+        "name": "Cylkowskiego",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5524939,
+          54.4944113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827366016",
+      "properties": {
+        "@id": "node/1827366016",
+        "bus": "yes",
+        "name": "Kopernika - Kościół (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.551109,
+          54.4955855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827366017",
+      "properties": {
+        "@id": "node/1827366017",
+        "bus": "yes",
+        "name": "Kopernika - Kościół",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5506903,
+          54.4962573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827366018",
+      "properties": {
+        "@id": "node/1827366018",
+        "bus": "yes",
+        "name": "Korczaka (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.544189,
+          54.4964846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827366019",
+      "properties": {
+        "@id": "node/1827366019",
+        "bus": "yes",
+        "name": "Wzgórze Św. Maksymiliana - Syrokomli",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5432949,
+          54.5023838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827366020",
+      "properties": {
+        "@id": "node/1827366020",
+        "bus": "yes",
+        "name": "Zespół Szkół Budowlanych",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.549175,
+          54.4988145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633290",
+      "properties": {
+        "@id": "node/1827633290",
+        "bus": "yes",
+        "name": "Urząd Morski",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5430613,
+          54.5281282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633307",
+      "properties": {
+        "@id": "node/1827633307",
+        "bus": "yes",
+        "name": "Chrzanowskiego - Przychodnia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5422748,
+          54.529995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633312",
+      "properties": {
+        "@id": "node/1827633312",
+        "bus": "yes",
+        "name": "Cmentarz Witomiński",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5206826,
+          54.5100254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633314",
+      "properties": {
+        "@id": "node/1827633314",
+        "bus": "yes",
+        "name": "Długa (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5120042,
+          54.4961933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633319",
+      "properties": {
+        "@id": "node/1827633319",
+        "bus": "yes",
+        "name": "Portowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5429905,
+          54.5243197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633346",
+      "properties": {
+        "@id": "node/1827633346",
+        "bus": "yes",
+        "name": "Poznańska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5307764,
+          54.5110142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633347",
+      "properties": {
+        "@id": "node/1827633347",
+        "bus": "yes",
+        "name": "Rolnicza",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5123037,
+          54.5000985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633348",
+      "properties": {
+        "@id": "node/1827633348",
+        "bus": "yes",
+        "name": "Rolnicza",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5135785,
+          54.5007995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633351",
+      "properties": {
+        "@id": "node/1827633351",
+        "bus": "yes",
+        "name": "Cmentarz Witomiński",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5214994,
+          54.5101964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633359",
+      "properties": {
+        "@id": "node/1827633359",
+        "bus": "yes",
+        "name": "Urząd Miasta - Władysława IV",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5372469,
+          54.5102244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827633384",
+      "properties": {
+        "@id": "node/1827633384",
+        "bus": "yes",
+        "name": "Witomino Polna",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5148507,
+          54.4950505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827704078",
+      "properties": {
+        "@id": "node/1827704078",
+        "bus": "yes",
+        "name": "Stawna",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5087526,
+          54.4949761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827704085",
+      "properties": {
+        "@id": "node/1827704085",
+        "bus": "yes",
+        "name": "Stawna",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5083781,
+          54.4955231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827704092",
+      "properties": {
+        "@id": "node/1827704092",
+        "bus": "yes",
+        "name": "Stawna",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5080328,
+          54.4947655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827757293",
+      "properties": {
+        "@id": "node/1827757293",
+        "bus": "yes",
+        "name": "Witomino Leśniczówka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5124739,
+          54.4912232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827757294",
+      "properties": {
+        "@id": "node/1827757294",
+        "bus": "yes",
+        "name": "Witomino Leśniczówka",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5112336,
+          54.4916137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827799231",
+      "properties": {
+        "@id": "node/1827799231",
+        "bus": "yes",
+        "name": "Węzeł Franciszki Cegielskiej 02",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5319607,
+          54.5082089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827916845",
+      "properties": {
+        "@id": "node/1827916845",
+        "bus": "yes",
+        "name": "Fregatowa (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.413471,
+          54.5015996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827916854",
+      "properties": {
+        "@id": "node/1827916854",
+        "bus": "yes",
+        "name": "Kmicica (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4168718,
+          54.4976403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1827916869",
+      "properties": {
+        "@id": "node/1827916869",
+        "bus": "yes",
+        "name": "Potok Wiczliński (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4199699,
+          54.4941646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828055693",
+      "properties": {
+        "@id": "node/1828055693",
+        "bus": "yes",
+        "name": "Dom Marynarza",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5488393,
+          54.5077511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828055694",
+      "properties": {
+        "@id": "node/1828055694",
+        "bus": "yes",
+        "name": "Mickiewicza (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5469123,
+          54.5126054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828055695",
+      "properties": {
+        "@id": "node/1828055695",
+        "bus": "yes",
+        "name": "Moniuszki (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5492088,
+          54.5054798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828055696",
+      "properties": {
+        "@id": "node/1828055696",
+        "bus": "yes",
+        "name": "Orłowo - Molo",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5639209,
+          54.4807433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1828055697",
+      "properties": {
+        "@id": "node/1828055697",
+        "bus": "yes",
+        "name": "Polanka Redłowska",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.557281,
+          54.5028355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1831094827",
+      "properties": {
+        "@id": "node/1831094827",
+        "bus": "yes",
+        "name": "Arciszewskich (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.550601,
+          54.5453989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1831094832",
+      "properties": {
+        "@id": "node/1831094832",
+        "bus": "yes",
+        "name": "Arciszewskich (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5503451,
+          54.5459968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1833036955",
+      "properties": {
+        "@id": "node/1833036955",
+        "bus": "yes",
+        "local_ref": "152, 252, 700",
+        "name": "Mały Kack Sandomierska",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5283314,
+          54.4866947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1844653788",
+      "properties": {
+        "@id": "node/1844653788",
+        "bus": "yes",
+        "name": "Maciejewicza",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5071561,
+          54.5627758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1846244261",
+      "properties": {
+        "@id": "node/1846244261",
+        "bus": "yes",
+        "name": "Kadmowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4722793,
+          54.5590946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855296962",
+      "properties": {
+        "@id": "node/1855296962",
+        "bus": "yes",
+        "name": "Wiczlino - Skrzyżowanie",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4250075,
+          54.4898314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855364235",
+      "properties": {
+        "@id": "node/1855364235",
+        "bus": "yes",
+        "name": "Plac Neptuna",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.51785,
+          54.5228135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1855364273",
+      "properties": {
+        "@id": "node/1855364273",
+        "bus": "yes",
+        "name": "Akademia Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5086682,
+          54.5261288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1947914178",
+      "properties": {
+        "@id": "node/1947914178",
+        "bus": "yes",
+        "name": "Kalksztajnów",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4951711,
+          54.5315052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2110537842",
+      "properties": {
+        "@id": "node/2110537842",
+        "bus": "yes",
+        "name": "Krofeya (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4969305,
+          54.5281828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2110537843",
+      "properties": {
+        "@id": "node/2110537843",
+        "bus": "yes",
+        "name": "Mireckiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5022355,
+          54.5282101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2111283272",
+      "properties": {
+        "@id": "node/2111283272",
+        "bus": "yes",
+        "name": "Beniowskiego - Akademiki",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5131346,
+          54.523603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2111283273",
+      "properties": {
+        "@id": "node/2111283273",
+        "bus": "yes",
+        "name": "Ejsmonda",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5523503,
+          54.5048089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2111283275",
+      "properties": {
+        "@id": "node/2111283275",
+        "bus": "yes",
+        "name": "Kołłątaja",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5197447,
+          54.5227643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2111283278",
+      "properties": {
+        "@id": "node/2111283278",
+        "bus": "yes",
+        "name": "Urząd Pracy",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5238391,
+          54.5212786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2113559682",
+      "properties": {
+        "@id": "node/2113559682",
+        "bus": "yes",
+        "name": "Dąbka - Zielona",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5287994,
+          54.5536077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2153425984",
+      "properties": {
+        "@id": "node/2153425984",
+        "bus": "yes",
+        "name": "Rdestowa - Leśny Zakątek (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4577435,
+          54.464092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2153425985",
+      "properties": {
+        "@id": "node/2153425985",
+        "bus": "yes",
+        "name": "Starochwaszczyńska (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4510518,
+          54.4575223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2153511974",
+      "properties": {
+        "@id": "node/2153511974",
+        "bus": "yes",
+        "name": "Grabówek SKM",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4944605,
+          54.5341487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154229565",
+      "properties": {
+        "@id": "node/2154229565",
+        "bus": "yes",
+        "name": "Hipermarket Tesco / OBI",
+        "public_transport": "stop_position",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.453604,
+          54.5389301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154229566",
+      "properties": {
+        "@id": "node/2154229566",
+        "bus": "yes",
+        "name": "Kwiatkowskiego",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5075567,
+          54.554182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154634052",
+      "properties": {
+        "@id": "node/2154634052",
+        "bus": "yes",
+        "name": "Morska - Estakada",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.48802,
+          54.5324999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154634053",
+      "properties": {
+        "@id": "node/2154634053",
+        "bus": "yes",
+        "name": "Rdestowa - Chwaszczyńska (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4528723,
+          54.4586897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154979752",
+      "properties": {
+        "@id": "node/2154979752",
+        "bus": "yes",
+        "name": "Centrum Nadawcze RTV (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4408588,
+          54.4524103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2154979781",
+      "properties": {
+        "@id": "node/2154979781",
+        "bus": "yes",
+        "name": "Starochwaszczyńska (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.449604,
+          54.4569049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2155809789",
+      "properties": {
+        "@id": "node/2155809789",
+        "bus": "yes",
+        "name": "Węzeł Franciszki Cegielskiej 01",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5331678,
+          54.50807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2155872161",
+      "properties": {
+        "@id": "node/2155872161",
+        "bus": "yes",
+        "name": "Demptowo - Jednostka Wojskowa",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4434748,
+          54.5186322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2156016410",
+      "properties": {
+        "@id": "node/2156016410",
+        "bus": "yes",
+        "name": "Kuśnierska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5032424,
+          54.5524671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2156661401",
+      "properties": {
+        "@id": "node/2156661401",
+        "bus": "yes",
+        "name": "Dom Marynarza",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5503137,
+          54.507964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229151",
+      "properties": {
+        "@id": "node/2375229151",
+        "bus": "yes",
+        "name": "Akademia Morska",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5082412,
+          54.5266928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229152",
+      "properties": {
+        "@id": "node/2375229152",
+        "bus": "yes",
+        "name": "Bażyńskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4888647,
+          54.5297493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229153",
+      "properties": {
+        "@id": "node/2375229153",
+        "bus": "yes",
+        "name": "Dembińskiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4939624,
+          54.5278646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229154",
+      "properties": {
+        "@id": "node/2375229154",
+        "bus": "yes",
+        "name": "Węzeł Żołnierzy Wyklętych",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4794092,
+          54.5353026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229155",
+      "properties": {
+        "@id": "node/2375229155",
+        "bus": "yes",
+        "name": "Komandorska - Hotel",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4966347,
+          54.5295079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229156",
+      "properties": {
+        "@id": "node/2375229156",
+        "bus": "yes",
+        "name": "Kordeckiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4861893,
+          54.5309552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229157",
+      "properties": {
+        "@id": "node/2375229157",
+        "bus": "yes",
+        "name": "Leszczynki II",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4813106,
+          54.527877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229158",
+      "properties": {
+        "@id": "node/2375229158",
+        "bus": "yes",
+        "name": "Mireckiego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5021636,
+          54.5285494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229159",
+      "properties": {
+        "@id": "node/2375229159",
+        "bus": "yes",
+        "name": "Rozewska",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4702569,
+          54.5375564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229160",
+      "properties": {
+        "@id": "node/2375229160",
+        "bus": "yes",
+        "name": "Stoigniewa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4859229,
+          54.527438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229161",
+      "properties": {
+        "@id": "node/2375229161",
+        "bus": "yes",
+        "name": "Stoigniewa",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4845208,
+          54.5282842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229162",
+      "properties": {
+        "@id": "node/2375229162",
+        "bus": "yes",
+        "name": "Technikum Chłodnicze (NŻ)",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4900409,
+          54.5271671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229163",
+      "properties": {
+        "@id": "node/2375229163",
+        "bus": "yes",
+        "name": "Technikum Chłodnicze",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4883579,
+          54.5278742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375229444",
+      "properties": {
+        "@id": "node/2375229444",
+        "bus": "yes",
+        "name": "Ściegiennego",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4825679,
+          54.5311364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375343493",
+      "properties": {
+        "@id": "node/2375343493",
+        "bus": "yes",
+        "name": "Swarzewska I",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.463746,
+          54.5379653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375343499",
+      "properties": {
+        "@id": "node/2375343499",
+        "bus": "yes",
+        "name": "Swarzewska II",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4609279,
+          54.5360129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375427765",
+      "properties": {
+        "@id": "node/2375427765",
+        "bus": "yes",
+        "name": "Kalksztajnów - Bloki",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4922791,
+          54.5287208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2375427767",
+      "properties": {
+        "@id": "node/2375427767",
+        "bus": "yes",
+        "name": "Sambora",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4957773,
+          54.527473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2402827761",
+      "properties": {
+        "@id": "node/2402827761",
+        "bus": "yes",
+        "name": "Witomino Centrum",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5107358,
+          54.4988954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2620114799",
+      "properties": {
+        "@id": "node/2620114799",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP - Wolności",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5281817,
+          54.5194278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2620114804",
+      "properties": {
+        "@id": "node/2620114804",
+        "bus": "yes",
+        "name": "Gdynia Dworzec Gł. PKP - Wolności",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5275857,
+          54.5199102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2664946659",
+      "properties": {
+        "@id": "node/2664946659",
+        "bus": "yes",
+        "name": "Korczaka (NŻ)",
+        "network": "ZKM Gdynia",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5453713,
+          54.495163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2941762767",
+      "properties": {
+        "@id": "node/2941762767",
+        "bus": "yes",
+        "name": "Skwer Kościuszki - InfoBox",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5417544,
+          54.5193941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2941786536",
+      "properties": {
+        "@id": "node/2941786536",
+        "bus": "yes",
+        "name": "Galeria Szperk",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5049249,
+          54.5636472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2956843133",
+      "properties": {
+        "@id": "node/2956843133",
+        "bus": "yes",
+        "name": "Halicka",
+        "network": "ZKM Gdynia",
+        "operator": "PKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5332744,
+          54.490927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2957079486",
+      "properties": {
+        "@id": "node/2957079486",
+        "bus": "yes",
+        "name": "Oksywie Dickmana",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5467214,
+          54.5575304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2957079487",
+      "properties": {
+        "@id": "node/2957079487",
+        "bus": "yes",
+        "name": "Pancerna",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5474126,
+          54.5526471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2957079488",
+      "properties": {
+        "@id": "node/2957079488",
+        "bus": "yes",
+        "name": "Pancerna",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5472598,
+          54.5534425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2957112139",
+      "properties": {
+        "@id": "node/2957112139",
+        "bus": "yes",
+        "name": "Oksywie Dickmana",
+        "network": "ZKM Gdynia",
+        "operator": "PKT Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5463462,
+          54.5575202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3030000543",
+      "properties": {
+        "@id": "node/3030000543",
+        "bus": "yes",
+        "name": "Maciejewicza",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5086502,
+          54.5628514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3030000548",
+      "properties": {
+        "@id": "node/3030000548",
+        "bus": "yes",
+        "name": "Stare Obłuże",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5099184,
+          54.5606036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3034503441",
+      "properties": {
+        "@id": "node/3034503441",
+        "bus": "yes",
+        "name": "Białowieska",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5151454,
+          54.5519615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3034503446",
+      "properties": {
+        "@id": "node/3034503446",
+        "bus": "yes",
+        "name": "Stolarska",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5195406,
+          54.5506917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3034503447",
+      "properties": {
+        "@id": "node/3034503447",
+        "bus": "yes",
+        "name": "Stolarska",
+        "operator": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5189691,
+          54.5510228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3176717461",
+      "properties": {
+        "@id": "node/3176717461",
+        "bus": "yes",
+        "name": "Węzeł Franciszki Cegielskiej 06",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5339428,
+          54.508515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3176717466",
+      "properties": {
+        "@id": "node/3176717466",
+        "bus": "yes",
+        "name": "Śląska 01",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5325462,
+          54.515159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3176796471",
+      "properties": {
+        "@id": "node/3176796471",
+        "bus": "yes",
+        "name": "3 Maja 01",
+        "network": "ZKM Gdynia",
+        "public_transport": "stop_position",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5366076,
+          54.5196449
+        ]
+      }
+    }
+  ]
